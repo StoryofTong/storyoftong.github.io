@@ -4,12 +4,8 @@ title: 关于 About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+小同的故事 Story of Tong是小同的父母为记录孩子成长建立的个人网站，内容谢绝转载。
 
-You can find the source code for the Jekyll new theme at:
+感谢Jekyll
 {% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[jekyll](https://github.com/jekyll/jekyll)为本站提供的技术支持！
